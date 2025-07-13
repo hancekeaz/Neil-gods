@@ -53,7 +53,7 @@ local Button = MainTab:CreateButton({
 })
 
 local Button = MainTab:CreateButton({
-   Name = "ESP [GOMA]",
+   Name = "ESP [NEIL]",
    Callback = function()
    -- UI Setup
 local ScreenGui = Instance.new("ScreenGui", game.Players.LocalPlayer:WaitForChild("PlayerGui"))
@@ -794,7 +794,7 @@ local Button = MainTab:CreateButton({
 })
 
 local Button = MainTab:CreateButton({
-   Name = "HITBOX EXTENDER [NEIL]",
+   Name = "NEIL BRING [NEIL]",
    Callback = function()
     loadstring(game:HttpGet("https://pastebin.com/raw/GY1wfJRZ"))()
    end,
